@@ -1,0 +1,52 @@
+body {
+    animation-name: color;
+    animation-duration: 0.3s;
+    animation-iteration-count: infinite;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+  
+  @keyframes color {
+    0% {
+      background-color: red;
+    }
+    10% {
+        background-color: orangered;
+    }
+    20% {
+      background-color: orange;
+    }
+    30% {
+        background-color: yellow;
+    }
+    40% {
+        background-color: yellowgreen;
+    }
+    50% {
+      background-color: green;
+    }
+    60% {
+        background-color: blue;
+    }
+    70% {
+        background-color: blueviolet;
+    }
+    80% {
+        background-color: rgb(255, 30, 172);
+    }
+    90% {
+        background-color: rgb(181, 0, 73);
+    }
+    100% {
+      background-color: rgb(255, 0, 60);
+    }
+  }
