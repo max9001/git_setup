@@ -1,1 +1,0 @@
-`this` **is** _the_ ~~documentation~~ <sub>for</sub> <sup>this</sup> :point_right: repository
